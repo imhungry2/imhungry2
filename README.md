@@ -1,9 +1,11 @@
 ## Contents
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+<div style="text-align: center; margin-bottom: 10px;">
   <a href="https://publish.obsidian.md/imhungry2/" style="text-decoration: none; line-height: 0; display: inline-block;">
     <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=flat-square&logo=Obsidian&logoColor=white" alt="Obsidian Badge" style="vertical-align: middle; display: block;"/>
   </a>
+</div>
+<div style="text-align: center;">
   <a href="mailto:dozngp@gmail.com" style="text-decoration: none; line-height: 0; display: inline-block;">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" style="vertical-align: middle; display: block;"/>
   </a>
