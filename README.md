@@ -9,8 +9,8 @@
   </a>
 </div>
 
-## Skills
 
+## Skills
 ### Platforms & Languages
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java Badge"/>
