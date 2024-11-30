@@ -1,13 +1,13 @@
 ## Contents
 
-
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://publish.obsidian.md/imhungry2/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=flat-square&logo=Obsidian&logoColor=white" alt="Obsidian Badge"/>
   </a>
   <a href="mailto:dozngp@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-
+</div>
 
 ## Skills
 
