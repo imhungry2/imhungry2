@@ -9,7 +9,6 @@
   </a>
 </div>
 <br>
-<br>
 
 ## Skills
 ### Platforms & Languages
