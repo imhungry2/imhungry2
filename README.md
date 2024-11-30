@@ -8,7 +8,8 @@
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-
+<br>
+<br>
 
 ## Skills
 ### Platforms & Languages
