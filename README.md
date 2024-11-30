@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <!--
 **imhungry2/imhungry2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
