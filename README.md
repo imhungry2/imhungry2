@@ -1,6 +1,6 @@
 ## Contents
 
-<div style="text-align: center; margin-bottom: 10px;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://publish.obsidian.md/imhungry2/">
     <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=flat-square&logo=Obsidian&logoColor=white" alt="Obsidian Badge"/>
   </a>
